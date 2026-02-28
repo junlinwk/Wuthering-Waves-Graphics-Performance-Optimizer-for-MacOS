@@ -1,6 +1,7 @@
 # Wuthering Waves Graphics & Performance Optimizer for MacOS (Hardware-Aware Edition) 
 # 《鳴潮》MacOS 光追畫質與效能優化工具（硬體自適應）
 
+![wuwatracker com_-2](https://github.com/user-attachments/assets/73084493-c3dc-429c-a9b4-7b30c60c9b1f)
 
 An optimization tool designed to bridge the gap between macOS and high-end PC gaming performance for Wuthering Waves. By leveraging hardware-aware configuration injection, this tool restores ray-tracing-like lighting effects, optimizes dynamic draw distances, and provides granular control over render resolution scaling to maximize visual fidelity and system stability.<br>
 
