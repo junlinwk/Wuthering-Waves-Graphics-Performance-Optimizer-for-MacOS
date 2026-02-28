@@ -45,7 +45,7 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 ### For General Users
 1. Go to the **Releases** page of this repository.
 2. Download the latest `Wuthering Waves Optimizer Installer` file.
-3. Open the dmg file and move the `Wuthering_Waves_Optimizer.app` to your Applications folder.
+3. Open the dmg file and move the `Wuthering Waves Optimizer.app` to your Applications folder.
 4. Launch the application and select your desired optimization level.
 5. Tap `allow` after select your optimize plan.
 
@@ -89,7 +89,7 @@ If you encounter any issues or have suggestions for further optimizations (e.g.,
 ### 一般使用者
 1. 前往本專案的 **Releases** 頁面。
 2. 下載最新的 `Wuthering Waves Optimizer Installer.dmg` 檔案。
-3. 開啟dmg檔案後，將 `Wuthering_Waves_Optimizer.app` 移動至您的「應用程式」資料夾。
+3. 開啟dmg檔案後，將 `Wuthering Waves Optimizer.app` 移動至您的「應用程式」資料夾。
 4. 啟動應用程式並選擇您想要的優化方案。
 5. 當 macOS 彈出資料夾存取權限請求時，請點擊**「允許」**以利腳本修改設定檔。
 
