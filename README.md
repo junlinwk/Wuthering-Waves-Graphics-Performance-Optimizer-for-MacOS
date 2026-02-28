@@ -20,12 +20,12 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 > **Note:** Click the image to view in high resolution.<br>
 > **提示：** 點擊圖片以檢視高解析度原圖
 
-| After (Optimized) | Before (Original) |
+| Before (Original) | After (Optimized) |
 | :---: | :---: |
-| <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7904917d-999d-4d16-af67-1df2c9134eda" /> |<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/671b9451-fd50-40cb-b48a-51efac733ea2" />|
-| *Enhanced shadows, XeGTAO, and ray-tracing-like effects.* | *Original preset with limited reflection().* |
-| **Focus:** Enhanced **Screen Space Reflections** and depth in the pool. | **Notice:** Flat water surface with minimal detail. |
-| **重點：** 大幅增強了**水潭倒影** 與視覺深度** | 說明：** 水面缺乏反射細節 |
+| <img src="https://github.com/user-attachments/assets/671b9451-fd50-40cb-b48a-51efac733ea2" width="450" alt="Before Optimization" /> | <img src="https://github.com/user-attachments/assets/7904917d-999d-4d16-af67-1df2c9134eda" width="450" alt="After Optimization" /> |
+| *Native Highest Preset with limited Screen Space Reflections (SSR).* | *Enhanced shadows, XeGTAO, and ray-tracing-like lighting effects.* |
+| **Notice:** Flat water surface with minimal detail. | **Focus:** Enhanced **Screen Space Reflections (SSR)** and depth in the pool. |
+| **注意：** 水面缺乏反射細節 |  大幅增強**水潭倒影 (SSR)** 與視覺深度 |
 
 ## Features
 
@@ -44,8 +44,8 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 
 ### For General Users
 1. Go to the **Releases** page of this repository.
-2. Download the latest `WuWa_Optimizer_macOS.zip` file.
-3. Unzip the file and move the `WuWa_Optimizer_macOS.app` to your Applications folder.
+2. Download the latest `Wuthering Waves Optimizer Installer` file.
+3. Open the dmg file and move the `Wuthering_Waves_Optimizer.app` to your Applications folder.
 4. Launch the application and select your desired optimization level.
 5. Tap `allow` after select your optimize plan.
 
@@ -88,8 +88,8 @@ If you encounter any issues or have suggestions for further optimizations (e.g.,
 
 ### 一般使用者
 1. 前往本專案的 **Releases** 頁面。
-2. 下載最新的 `WuWa_Optimizer_macOS.zip` 檔案。
-3. 解壓縮後將 `WuWa_Optimizer_macOS.app` 移動至您的「應用程式」資料夾。
+2. 下載最新的 `Wuthering Waves Optimizer Installer.dmg` 檔案。
+3. 開啟dmg檔案後，將 `Wuthering_Waves_Optimizer.app` 移動至您的「應用程式」資料夾。
 4. 啟動應用程式並選擇您想要的優化方案。
 5. 當 macOS 彈出資料夾存取權限請求時，請點擊**「允許」**以利腳本修改設定檔。
 
