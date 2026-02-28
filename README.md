@@ -16,6 +16,17 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 - [繁體中文](#主要功能)
 
 ---
+## Visual Quality Enhancement Comparison / 視覺品質增強對比
+> **Note:** Click the image to view in high resolution.
+> 
+> **提示：** 點擊圖片以檢視高解析度原圖
+
+| After (Optimized) | Before (Original) |
+| :---: | :---: |
+| <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7904917d-999d-4d16-af67-1df2c9134eda" /> |<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/671b9451-fd50-40cb-b48a-51efac733ea2" />|
+| *Enhanced shadows, XeGTAO, and ray-tracing-like effects.* | *Original preset with limited reflection().* |
+| **Focus:** Enhanced **Screen Space Reflections** and depth in the pool. | **Notice:** Flat water surface with minimal detail. |
+| **重點：** 大幅增強了**水潭倒影** 與視覺深度** | 說明：** 水面缺乏反射細節 |
 
 ## Features
 
