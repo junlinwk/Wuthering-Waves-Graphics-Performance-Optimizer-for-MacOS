@@ -24,13 +24,14 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/671b9451-fd50-40cb-b48a-51efac733ea2" width="450" alt="Before Optimization" /> | <img src="https://github.com/user-attachments/assets/7904917d-999d-4d16-af67-1df2c9134eda" width="450" alt="After Optimization" /> |
 | *Native Highest Preset with limited Screen Space Reflections (SSR).* | *Enhanced shadows, XeGTAO, and ray-tracing-like lighting effects.* |
-| **Notice:** Flat water surface with minimal detail. | **Focus:** Enhanced **Screen Space Reflections (SSR)** and depth in the pool. |
-| **注意：** 水面缺乏反射細節 |  大幅增強**水潭倒影 (SSR)** 與視覺深度 |
+| **Notice:** Flat water surface with minimal detail. | **Focus:** Enhanced **Screen Space Reflections (SSR)** and **Texture Detail**. |
+| **注意：** 水面缺乏反射細節 |  大幅增強**水潭倒影 (SSR)** 與**貼圖紋理細節** |
 
 ## Features
 
 * **Visual Fidelity and Lighting Restoration**: Restores and enhances high-end PC lighting effects and ray-tracing-like shadows, delivering a more realistic and layered visual experience on macOS.
 * **Independent Resolution Scaling**: Provides specialized options to adjust the internal 3D render percentage. This allows users to boost FPS significantly while maintaining a sharp, native-resolution UI.
+* **Ultra-High Texture Fidelity**: Bypasses native engine limits to force-load raw, full-resolution textures, delivering a level of detail that exceeds the default "Extreme Highest" preset.
 * **Dynamic Draw Distance Optimization**: Significantly improves draw distance for environmental objects and grass foliage, effectively reducing pop-in issues and enhancing overall scene stability.
 * **High-End Shadows and Ambient Occlusion**: Enhances grass shadow quality and implements high-quality XeGTAO (Ground Truth Ambient Occlusion) to increase depth and realism between objects and terrains.
 * **Adaptive VRAM Pool Management**: Optimizes the Streaming.PoolSize specifically for macOS Unified Memory architecture, eliminating texture blurring and loading stutters caused by default engine constraints.
@@ -75,6 +76,7 @@ If you encounter any issues or have suggestions for further optimizations (e.g.,
 
 * **光影效果與細節還原**：還原並增強接近 PC 高端設備的光影效果與光追效果，使場景中的光影細節更加真實且有層次。
 * **獨立渲染解析度調整**：提供專門針對渲染百分比的優化選項，讓玩家在保持 UI 清晰度的情況下，透過降低 3D 渲染壓力大幅提升幀數。
+* **貼圖紋理加載精細度調整**：突破遊戲內建上限，強制加載原始最高解析度紋理，提供超越「極高」檔位的視覺細節。
 * **動態渲染距離優化**：全面改善物件渲染距離與草地細節，有效減少遠處物件突然出現的現象，提升整體視覺穩定性。
 * **高階陰影與環境光遮蔽**：增強草地陰影效果，並導入更高品質的環境光遮蔽 (XeGTAO)，顯著提升物件與地面間的立體感與寫實度。
 * **自適應顯存池管理**：針對 macOS 統一記憶體架構優化顯存池設定，解決預設設定下可能產生的貼圖模糊或加載延遲問題。
