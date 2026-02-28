@@ -17,8 +17,7 @@ An optimization tool designed to bridge the gap between macOS and high-end PC ga
 
 ---
 ## Visual Quality Enhancement Comparison / 視覺品質增強對比
-> **Note:** Click the image to view in high resolution.
-> 
+> **Note:** Click the image to view in high resolution.<br>
 > **提示：** 點擊圖片以檢視高解析度原圖
 
 | After (Optimized) | Before (Original) |
